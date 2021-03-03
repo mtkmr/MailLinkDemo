@@ -65,7 +65,8 @@ UserInterfaceState.xcuserstate
 *.swp
 !.gitkeep
 .DS_Store
-.plist
+info.plist
+GoogleService-Info.plist
 
 # Carthage
 #
